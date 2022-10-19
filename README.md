@@ -1,0 +1,1 @@
+# temp-ROR-linter-rubocop
